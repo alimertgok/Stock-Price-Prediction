@@ -1,2 +1,2 @@
 # Stock-Price-Prediction
-Stock price prediction with using LSTM module and PyTorch.
+Developed stock price prediction using LSTM module and using Kaggle's Google historical data and PyTorch from Python.
